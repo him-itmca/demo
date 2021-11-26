@@ -29,3 +29,4 @@
 <hr>
 issue of no 4 resolved
 issue of no 5 resolved
+issue of no 6,7 resolved
