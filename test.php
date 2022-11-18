@@ -34,4 +34,4 @@ issue of no 6,7 resolved
 
 
 bug fix issue 5
-bug fix issue 88
+bug fix all okk
